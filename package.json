@@ -1,0 +1,13 @@
+{
+    "name": "com.companyname.packagename",
+    "displayName": "Package Name",
+    "version": "0.0.1-prerelease",
+    "unity": "2018.3",
+    "unityRelease": "0f1",
+    "description": "This is Test Package",
+    "keywords": ["Test","Package"],
+    "author": "TechX",
+    "dependencies":["com.unity.nuget.newtonsoft-json", "2.0.0"],
+    "samples": [
+          ]
+}
