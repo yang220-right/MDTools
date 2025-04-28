@@ -1,13 +1,12 @@
 {
-    "name": "com.companyname.packagename",
-    "displayName": "Package Name",
+    "name": "com.GD.Test",
+    "displayName": "Test",
     "version": "0.0.1-prerelease",
-    "unity": "2018.3",
+    "unity": "2022.3",
     "unityRelease": "0f1",
     "description": "This is Test Package",
     "keywords": ["Test","Package"],
     "author": "TechX",
-    "dependencies":["com.unity.nuget.newtonsoft-json", "2.0.0"],
     "samples": [
           ]
 }
