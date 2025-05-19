@@ -1,0 +1,12 @@
+{
+    "name": "com.gd.test",
+    "displayName": "Test",
+    "version": "0.0.1-prerelease",
+    "unity": "2022.3",
+    "unityRelease": "0f1",
+    "description": "This is Test Package",
+    "keywords": ["Test","Package"],
+    "author": "TechX",
+    "samples": [
+          ]
+}
