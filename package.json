@@ -1,12 +1,12 @@
 {
-    "name": "com.gd.test",
-    "displayName": "Test",
+    "name": "com.yy.ui",
+    "displayName": "UI",
     "version": "0.0.1-prerelease",
     "unity": "2022.3",
     "unityRelease": "0f1",
-    "description": "This is Test Package",
-    "keywords": ["Test","Package"],
-    "author": "TechX",
-    "samples": [
-          ]
+    "description": "一个牛逼的UI框架",
+    "keywords": ["UI","Package"],
+    "author": "maodan",
+    "dependencies":["com.cysharp.unitask","2.5.10"],
+    "samples": []
 }
